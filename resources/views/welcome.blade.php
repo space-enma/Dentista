@@ -5,7 +5,7 @@
 @section('content')
 <main>
     <section class="area1">
-        <h1 class="ola">oi</h1>
+        <h1 class="ola">oi fff</h1>
     </section>
     
     <div class="alert alert-primary" role="alert">
